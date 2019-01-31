@@ -1,0 +1,25 @@
+.logo img{
+    weight:16px;
+    height:106px;
+    margin: 16px auto auto 106px;
+}
+
+.nav{
+    float: right;
+    margin:42px 100px;
+}
+
+.nav-link{
+    font-family: 'Muli', sans-serif;
+    font-size: 14pt;
+    font-weight: 700;
+    color: #19345E;
+    margin: 0 5px;
+}
+
+.active{
+    font-family: 'Muli', sans-serif;
+    font-size: 14pt;
+    font-weight: 700;
+    color: #F47522
+}
