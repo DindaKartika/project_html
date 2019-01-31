@@ -23,3 +23,70 @@
     font-weight: 700;
     color: #F47522
 }
+
+img.image1 {
+    width: 305px;
+    height: 305px;
+    background: white;
+    border: grey solid 1px;
+    border-radius: 10px;
+}
+
+img.kontak {
+    width: 100%;
+    height: 100%;
+}
+.margin {
+    margin-top: 20px;
+}
+.border-bawah {
+    border-bottom: #19345E solid 2px;
+}
+
+.btn-primary {
+    background-color: #F47522;
+    border: #F47522;
+    border-radius: 10px;
+    opacity: 100%;
+    width: 445px;
+    height: 53px;
+    font-family: 'Muli', Bold;
+    font-size: 16px;
+}
+
+h2 {
+    color: #19345E;
+    opacity: 100%;
+    text-align: left;
+    font-family: 'Muli', Bold;
+}
+
+span {
+    color: #535353;
+    opacity: 100%;
+    text-align: left;
+    font-family: 'Muli', Light;
+    font-size: 12px;
+}
+
+.form-control {
+    width: 445px;
+    height: 52px;
+    background-color: #FFFFFF;
+    border: #00A0D0 solid 1px;
+    border-radius: 5px;
+}
+
+.dropdown-menu {
+    background-color: #FFFFFF;
+    width: 445px;
+    height: 52px;
+    border: #707070 solid 1px;
+    border-radius: 5px;
+}
+
+.box-kontak {
+    width: 445px;
+    height: auto;
+    border: white solid 1px;
+}
